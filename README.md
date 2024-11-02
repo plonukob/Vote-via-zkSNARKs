@@ -1,4 +1,4 @@
-# vote_via_zkSNARKs bu PlopPlop
+# Vote via zkSNARKs bu PlopPlop
 
 This is the proof of concept "[Dispute-free Scalable Open Vote Network using zk-SNARKs](https://eprint.iacr.org/2022/310)"
 
