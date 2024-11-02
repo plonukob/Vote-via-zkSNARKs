@@ -1,6 +1,6 @@
-# vote_via_zkSNARKs
+# vote_via_zkSNARKs bu PlopPlop
 
-This is the proof of concept of our paper "[Dispute-free Scalable Open Vote Network using zk-SNARKs](https://eprint.iacr.org/2022/310)"
+This is the proof of concept "[Dispute-free Scalable Open Vote Network using zk-SNARKs](https://eprint.iacr.org/2022/310)"
 
 # Installation 
  1. Install [Nodejs](https://nodejs.org/)
